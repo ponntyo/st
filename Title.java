@@ -19,6 +19,7 @@ public class Title
 		g.drawString("しゅーてぃんぐ",120,150);
 			g.setFont(infoFont);
 			g.drawString("スペースではじめるよ、スペースでリトライよ",100,350);
+			//勝手にテキスト追加したよ！！
 		
 	}
 	public void drawGameover(Graphics g)
